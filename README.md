@@ -23,8 +23,8 @@
 <p align="left">
 </p>
 
-<h4 align="center">- 📫 How to reach me **shivaprasad28646@gmail.com** </h4>
-<h4 align="center">- My LinkedIn Profile **www.linkedin.com/in/shivaprasadacharya** </h4>
+- 📫 How to reach me **shivaprasad28646@gmail.com**
+- My LinkedIn Profile **www.linkedin.com/in/shivaprasadacharya** 
 <p align="center">
 <img width="700" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDB4cjdtazY2cHFjbmdsa2oyMTdvenowcHF3YXJndTV6c2l6YWJsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/49OZPBdNscWtPafDpB/giphy.gif" />
 </p>

@@ -29,7 +29,7 @@
 <img width="700" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDB4cjdtazY2cHFjbmdsa2oyMTdvenowcHF3YXJndTV6c2l6YWJsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/49OZPBdNscWtPafDpB/giphy.gif" />
 </p>
 
-<h3 align="center">🛠 Languages and Tools:</h3>
+<h2 align="center">🛠 Languages and Tools:</h2>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
